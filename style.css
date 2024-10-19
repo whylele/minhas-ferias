@@ -4,7 +4,7 @@ root {  */
   --botao-azul: #f71678;
   --cor-de-fundo: #00030c;
   --font-principal: "inter";
---botao-azul-efeito-: #bb3cfa;
+--botao-azul-efeito-: #ee4292;
 }
 
 body{
@@ -21,7 +21,7 @@ body{
 }
 
 .principal {
-  background-image: url("img/Background");
+  background-image: url("img/kittyfundo.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   align-items: center;

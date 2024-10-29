@@ -9,7 +9,7 @@ root {  */
 
 body{
   background-color: var(--cor-de-fundo);
-  color: var(--pink-principal);
+  color: var(--branco-principal);
   font-family: var(--font-principal);
   font-size: 16px;
   font-weight: 400; 
@@ -26,6 +26,7 @@ body{
   background-size: contain;
   align-items: center;
   text-align: center;
+  background-color: hsl(334, 100%, 82%);
 }
 
 .container {

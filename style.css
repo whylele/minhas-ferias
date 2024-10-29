@@ -115,6 +115,8 @@ body{
 .rodape {
   text-align: center;
   margin: 5em 3em;
+  background-color:#f71678;
+  color:black;
 }
 
 .lista__item {
@@ -127,7 +129,7 @@ body{
   justify-content: center;
   list-style-type: none;
   margin-top: 1em;
-  color:#f71678;
+  
 }
 
 .lista__link a {
